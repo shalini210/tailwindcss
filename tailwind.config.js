@@ -5,8 +5,13 @@ module.exports = {
 ,"./index.html"],
   
   theme: {
+
+    colors: {
+     
+    },
     extend: {},
   },
   plugins: [],
+ 
 }
 
